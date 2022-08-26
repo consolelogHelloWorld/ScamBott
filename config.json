@@ -1,5 +1,9 @@
 {
     "bot_token":"",
-    "user_id_to_send":"",
-    "link_to_mask":"https://www.youtube.com/watch?v=-CbxUk8QX9M"
+
+    "owner_id":,
+
+    "id_to_send":,
+
+    "link_to_mask":"https://preview.redd.it/j620rpvqcsj91.jpg?width=640&crop=smart&auto=webp&s=095da6ff110776ae542942d6619fa678427604d0"
 }
