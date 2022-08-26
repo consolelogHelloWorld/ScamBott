@@ -1,7 +1,9 @@
 # ScamBott
 
 A simple, open-source, free discord Scamming Bot made by Joee.  
-In order to use this, you must know the basics of python, pip, and how to make a discord bot. This bot is written in python, and depends on several libraries: {discord.py v2.0.0, json, datetime, random} 
+In order to use this, you must know the basics of python, pip, and how to make a discord bot. This bot is written in python, and depends on several libraries: 
+
+{discord.py, json, datetime, random} 
 
 
 ### Changelog:
